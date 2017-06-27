@@ -7,6 +7,6 @@ import android.util.Log;
  */
 public class Submodule1Util {
     public static void test() {
-        Log.e(Submodule1Util.class.getSimpleName(), "Submodule2Util");
+        Log.e(Submodule1Util.class.getSimpleName(), "Submodule1Util");
     }
 }
